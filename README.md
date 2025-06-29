@@ -83,3 +83,4 @@ This RESTful API project provides a strong foundation for understanding how mode
 
 ## OUTPUT ##
 
+![Image](https://github.com/user-attachments/assets/e7fa010d-28f9-4c58-884a-9949dbf84168)
